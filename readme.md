@@ -23,19 +23,11 @@
 Visit to online compiler https://www.onlinegdb.com/
 
 https://www.wolframalpha.com <img align="left" alt="Wolfram" width="120px" src="https://www.wolframalpha.com/_next/static/images/Logo_3KbuDCMc.svg"/>
-
-### Languages
 ---
-
-<img align="left" alt="C" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_64x64.png"/>
+### Languages <img align="left" alt="C" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_64x64.png"/>
 <img align="left" alt="Lua" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/lua/lua_64x64.png"/>
 <img align="left" alt="JavaScript" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_64x64.png"/>
 <img align="left" alt="HTML" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_64x64.png"/>
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
-<br />
-
-<br />
-
 ---
 ### Contribution Graph
 
