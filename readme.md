@@ -20,13 +20,12 @@
 
 --->
 
-No Instagram, No Twitter
+Visit to online compiler https://www.onlinegdb.com/
 
-...
+Math tools https://www.wolframalpha.com/
 
 ### Languages
 ---
-
 
 <img align="left" alt="C" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/>
 <img align="left" alt="GitHub" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg"/>
