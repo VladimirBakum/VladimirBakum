@@ -8,7 +8,7 @@
 
 </h3>
 
-<h3> Thanks for your visit рџЉ </h3> 
+<h3> Thanks for your visit </h3> 
 
 <!---
 
@@ -20,9 +20,9 @@
 
 --->
 
-в­ђ No Instagram, No Twitter
+No Instagram, No Twitter
 
-в­ђ ...
+...
 
 ### Languages
 ---
