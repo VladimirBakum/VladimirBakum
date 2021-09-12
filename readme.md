@@ -31,8 +31,10 @@ https://www.wolframalpha.com <img align="left" alt="Wolfram" width="120px" src="
 <img align="left" alt="JavaScript" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_64x64.png"/>
 <img align="left" alt="HTML" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_64x64.png"/>
 
----
+<br />
+<br />
 
+---
 ### Contribution Graph
 
 [![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=VladimirBakum&theme=react-dark&line=17de35&area=true&hide_border=true&color=00ffff)](https://github.com/VladimirBakum/github-readme-activity-graph)
