@@ -7,6 +7,13 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=VladimirBakum.visitor-badge) [![Repos Badge](https://badges.pufler.dev/repos/VladimirBakum)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/VladimirBakum)](https://badges.pufler.dev)
 
 </h3>
+<p align="center">
+    <a href="https://github.com/VladimirBakum/VladimirBakum/actions"><img src="https://github.com/VladimirBakum/VladimirBakum/workflows/publish/badge.svg" /></a>
+    <a href="https://github.com/VladimirBakum/VladimirBakum"><img src="https://img.shields.io/npm/v/VladimirBakum.svg?logo=npm" /></a>
+	<a href="https://github.com/VladimirBakum/VladimirBakum/blob/master/license"><img src="https://img.shields.io/github/license/VladimirBakum/VladimirBakum.svg" /></a>
+    <a href="https://github.com/VladimirBakum/VladimirBakum"><img src="https://img.shields.io/github/repo-size/abranhe/VladimirBakum.svg?logo=github"></a>
+    <br>
+</p>
 
 <h3> Thanks for your visit </h3> 
 
