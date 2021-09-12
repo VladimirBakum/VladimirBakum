@@ -19,9 +19,8 @@
 </h3>
 
 --->
-
-Online compiler https://www.onlinegdb.com/
-
+<a href="https://www.onlinegdb.com"><code>www.onlinegdb.com</code></a>
+<br>
 https://www.wolframalpha.com <img align="left" alt="Wolfram" width="120px" src="https://www.wolframalpha.com/_next/static/images/Logo_3KbuDCMc.svg"/>
 
 ---
@@ -32,8 +31,8 @@ https://www.wolframalpha.com <img align="left" alt="Wolfram" width="120px" src="
 <img align="left" alt="JavaScript" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_64x64.png"/>
 <img align="left" alt="HTML" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_64x64.png"/>
 
-<br />
-<br />
+<br>
+<br>
 
 ---
 ### Contribution Graph
