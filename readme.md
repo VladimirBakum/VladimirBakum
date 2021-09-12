@@ -1,5 +1,5 @@
 <h1 align="center">
-(R)soft's free software code repository.
+(R)soft's free software repository.
 </h1>
 
 <h3 align="center">
