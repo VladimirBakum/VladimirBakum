@@ -22,7 +22,8 @@
 
 Visit to online compiler https://www.onlinegdb.com/
 
-Math tools https://www.wolframalpha.com/
+Math tools [!["Math Tool"](https://www.wolframalpha.com/_next/static/images/Logo_3KbuDCMc.svg)](https://www.wolframalpha.com)
+
 
 ### Languages
 ---
@@ -37,7 +38,7 @@ Math tools https://www.wolframalpha.com/
 ---
 ### Contribution Graph
 
-[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=VladimirBakum&theme=react-dark&line=17de35&area=true&hide_border=true&color=ffffff)](https://github.com/VladimirBakum/github-readme-activity-graph)
+[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=VladimirBakum&theme=react-dark&line=17de35&area=true&hide_border=true&color=00ffff)](https://github.com/VladimirBakum/github-readme-activity-graph)
 
 
 <!--- 
