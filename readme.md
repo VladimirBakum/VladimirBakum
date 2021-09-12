@@ -8,7 +8,7 @@
 
 </h3>
 
-<h3> Thanks for your visit </h3> 
+<h3> I'm not a programmer but still learning ... </h3> 
 
 <!---
 
