@@ -19,7 +19,7 @@
 </h3>
 
 --->
-<a href="https://www.onlinegdb.com"><code>www.onlinegdb.com</code></a>
+<a href="https://www.onlinegdb.com"><code>Online compiler</code></a>
 <br>
 https://www.wolframalpha.com <img align="left" alt="Wolfram" width="120px" src="https://www.wolframalpha.com/_next/static/images/Logo_3KbuDCMc.svg"/>
 
