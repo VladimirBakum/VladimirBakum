@@ -27,7 +27,7 @@ https://www.wolframalpha.com <img align="left" alt="Wolfram" width="120px" src="
 ### Languages
 ---
 
-<img align="left" alt="C" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/>
+<img align="left" alt="C" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_64x64.png"/>
 <img align="left" alt="GitHub" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg"/>
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
 <br />
