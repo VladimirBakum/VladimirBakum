@@ -22,7 +22,7 @@
 
 Visit to online compiler https://www.onlinegdb.com/
 
-[!["Math Tools"]()](https://www.wolframalpha.com) <img align="left" alt="C" width="120px" src="https://www.wolframalpha.com/_next/static/images/Logo_3KbuDCMc.svg"/>
+https://www.wolframalpha.com <img align="left" alt="Wolfram" width="120px" src="https://www.wolframalpha.com/_next/static/images/Logo_3KbuDCMc.svg"/>
 
 ### Languages
 ---
