@@ -1,5 +1,5 @@
-[![(R)soft's github stats](https://github-readme-stats.vercel.app/api?username=VladimirBakum&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <h1 align="center">
+  [![(R)soft's github stats](https://github-readme-stats.vercel.app/api?username=VladimirBakum&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 (R)soft's free software repository.
 </h1>
 
