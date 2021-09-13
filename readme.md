@@ -1,7 +1,7 @@
 <h1 align="center">
 (R)soft's free software repository.
 </h1>
-  [![(R)soft's github stats](https://github-readme-stats.vercel.app/api?username=VladimirBakum&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![(R)soft's github stats](https://github-readme-stats.vercel.app/api?username=VladimirBakum&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="center">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=VladimirBakum.visitor-badge) 
