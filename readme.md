@@ -40,7 +40,7 @@
 ---
 ### Contribution Graph
 
-[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=VladimirBakum&theme=react-dark&line=e0da1f&area=true&hide_border=true&color=00ffff)](https://github.com/VladimirBakum/github-readme-activity-graph)
+[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=VladimirBakum&theme=react-dark&line=66c76c&area=true&hide_border=true&color=d5f49f)](https://github.com/VladimirBakum/github-readme-activity-graph)
 
 
 <!--- 
