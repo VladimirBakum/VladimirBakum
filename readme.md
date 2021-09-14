@@ -24,7 +24,7 @@
 --->
 <a href="https://www.onlinegdb.com"><code>Online compiler</code></a>
 <br>
-https://www.wolframalpha.com <img align="left" alt="Wolfram" width="120px" src="https://www.wolframalpha.com/_next/static/images/Logo_3KbuDCMc.svg"/>
+<img align="left" alt="Wolfram" width="120px" src="https://www.wolframalpha.com/_next/static/images/Logo_3KbuDCMc.svg"> https://www.wolframalpha.com
 
 ---
 
@@ -40,7 +40,7 @@ https://www.wolframalpha.com <img align="left" alt="Wolfram" width="120px" src="
 ---
 ### Contribution Graph
 
-[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=VladimirBakum&theme=react-dark&line=17de35&area=true&hide_border=true&color=00ffff)](https://github.com/VladimirBakum/github-readme-activity-graph)
+[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=VladimirBakum&theme=react-dark&line=e0da1f&area=true&hide_border=true&color=00ffff)](https://github.com/VladimirBakum/github-readme-activity-graph)
 
 
 <!--- 
